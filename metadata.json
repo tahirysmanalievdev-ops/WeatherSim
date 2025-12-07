@@ -1,0 +1,5 @@
+{
+  "name": "Atmosphere - Weather & Gravity Sim",
+  "description": "A high-performance particle physics simulator featuring rain, snow, fog, and lightning modes. Includes an AI Director to generate custom weather scenarios based on natural language.",
+  "requestFramePermissions": []
+}
